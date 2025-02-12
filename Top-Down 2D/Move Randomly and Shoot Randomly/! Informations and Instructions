@@ -1,4 +1,5 @@
 Bir karakterin (örneğin düşmanın) rastgele hareket etmesini ve hareket ederken rastgele ateş etmesini sağlar. 
+Kahramanın canı azalır.
 Ayrıca karakter bir collider ile çarpıştığında sürenin geçmesini beklemeden yön değiştirir. 
 Atılan obje bir collider ile çarpıştığında yok olur. 
 
