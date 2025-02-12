@@ -1,4 +1,5 @@
-   Bu kod dizisi bir düşmanın oyun kahramanını gördüğünde ona kilitlenip ateş etmesini sağlar. Kahramanın canı azalır ve kahramanın bir can barı mevcuttur. 
+   Bu kod dizisi bir düşmanın oyun kahramanını gördüğünde ona kilitlenip ateş etmesini sağlar.
+Kahramanın canı azalır ve kahramanın bir can barı mevcuttur. 
 
 Yapılacak ayarlar:
 *Kahraman: Gravity Scale = 0, Linear Drag = 5, Tag = "Hero", CharacterHealth script
