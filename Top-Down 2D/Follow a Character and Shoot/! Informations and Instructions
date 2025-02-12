@@ -1,5 +1,6 @@
    Bu kod dizisi bir düşmanın oyun kahramanını gördüğünde ona kilitlenip ateş etmesini sağlar.
 Kahramanın canı azalır ve kahramanın bir can barı mevcuttur. 
+Fırlatılan obje bir collider ile çarpıştığında yok olur. (videoda yok olmuyor olabilir)
 
 Yapılacak ayarlar:
 *Kahraman: Gravity Scale = 0, Linear Drag = 5, Tag = "Hero", "Hero Management/CharacterHealth.cs" script, UI-slider ekle(healthBar)
