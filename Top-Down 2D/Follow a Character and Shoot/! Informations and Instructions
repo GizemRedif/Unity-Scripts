@@ -2,7 +2,7 @@
 Kahramanın canı azalır ve kahramanın bir can barı mevcuttur. 
 
 Yapılacak ayarlar:
-*Kahraman: Gravity Scale = 0, Linear Drag = 5, Tag = "Hero", Hero Management/CharacterHealth.cs script, UI-slider ekle(healthBar)
+*Kahraman: Gravity Scale = 0, Linear Drag = 5, Tag = "Hero", "Hero Management/CharacterHealth.cs" script, UI-slider ekle(healthBar)
 *Düşman: Gravity Scale = 0, Linear Drag = 5, FollowingCharacter script
 *Fırlatılan Obje: Gravity Scale = 0, ThrownObject script
 *Düşman ve fırlatılan objenin layer etkileşimini kapat. (Yoksa obje karaktere çarpıyor ve hep aynı taraftan fırlıyor.)
