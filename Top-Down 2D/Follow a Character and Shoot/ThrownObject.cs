@@ -26,9 +26,8 @@ public class ThrownObject : MonoBehaviour {
             {
                 heroHealth.TakeDamage(damage);
             }
-
-            // Obje yok olsun
-            Destroy(gameObject);
         }
+        // Obje yok olsun
+        Destroy(gameObject);
     }
 }
