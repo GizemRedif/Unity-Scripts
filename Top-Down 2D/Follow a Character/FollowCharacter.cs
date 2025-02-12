@@ -4,12 +4,6 @@ using UnityEngine;
 
 public class FollowCharacter : MonoBehaviour
 {
-
-    //Top-Down 2D oyun tarzı için hazırlanmıştır. 
-    //Bir karakterin başka bir karakter görüş açısına grdiğinde takip etmesini sağlar.
-    //Karakterler için gravity scale kapalı (0) ve linear drag yüksek (örneğin 5) yapılmalıdır.
-
-
     public float speed = 2f;
     public float followDistance = 5f;
     public Transform hero;
