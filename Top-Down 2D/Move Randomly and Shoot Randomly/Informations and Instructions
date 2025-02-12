@@ -1,0 +1,9 @@
+Bir karakterin (örneğin düşmanın) rastgele hareket etmesini ve hareket ederken rastgele ateş etmesini sağlar. 
+Ayrıca karakter bir collider ile çarpıştığında sürenin geçmesini beklemeden yön değiştirir. 
+Atılan obje bir collider ile çarpıştığında yok olur. 
+
+Yapılacak Ayarlar:
+*Düşman: MoveRandomly script, ShootRandomly script
+*Fırlatılan obje: RandomlyThrownObject, Gravity Scale=0
+*Kahraman: "Hero Management/CharacterHealth.cs" script ve UI-slider (healthBar)
+*Düşman ile fırlatılan objenin layer etkileşimini kapat. (yoksa obje düşmanın collider’ına değip yok oluyor)
