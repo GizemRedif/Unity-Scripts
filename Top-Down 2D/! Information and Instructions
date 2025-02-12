@@ -1,2 +1,2 @@
 Bazı talimatlarda o dosyada olmayan scripin eklenmesi istenebilir. O scriptler ilgili dosya ile beraber yazılır. 
-örneğin: Hero Management/CharacterHealth.cs scripti bu dizindeki hero management dosyasında bulunan scripti ifade eder.
+örneğin: "Hero Management/CharacterHealth.cs" scripti bu dizindeki hero management dosyasında bulunan scripti ifade eder.
