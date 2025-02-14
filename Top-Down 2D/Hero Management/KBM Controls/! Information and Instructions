@@ -1,0 +1,17 @@
+Genel ayarlar:
+*Kahraman ve kahramanın fırlattığı objenin layer etkileşimini kapat.
+*firePoint ayarla: Karakterin ateş edeceği boş bir GameObject (firePoint) oluştur ve onu karakterin önüne yerleştir.
+-Animasyonlar için:
+*Has exit time - kapalı 
+*Ateş etme gibi tek sefer oynatılacak animasyonlar için: loop time - kapalı
+
+Bu kodlamaya göre karakterin sahip olabileceği animasyonlar:
+*Yatayda ve dikeyde yürüme animasyonu
+*Ateş etme animasyonu
+
+Kodlamaya gore Karakterin sahip olduğu parametreler:
+*Yatayda yürüme animasyonuna geçiş için: float “horizontalSpeed” 
+Idle –> Yürüme : horizontalSpeed greater 0.01
+Yürüme –> Idle : horizontalSpeed less 0.01
+*Dikeyde yürüme animasyonuna geçiş için: float "verticalSpeed"
+*Ateş etme animasyonuna geçiş için: bool "isMouseButtonDown0"
